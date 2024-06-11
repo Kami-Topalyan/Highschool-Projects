@@ -1,0 +1,5 @@
+the parantehesis for a class means it can take a constuructor
+
+ex. World class has x and y constructors 
+
+constuructor signatures are what we use to identify what goes in a parantehesis

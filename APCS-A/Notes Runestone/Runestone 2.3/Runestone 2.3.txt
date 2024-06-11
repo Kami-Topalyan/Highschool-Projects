@@ -1,0 +1,3 @@
+object methods are classes that have nothing in their parantehesis
+
+methods are used to run specific actions without inputs

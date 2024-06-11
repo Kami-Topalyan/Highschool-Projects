@@ -1,0 +1,8 @@
+
+    Strong Referances
+
+    strong Referances do not get garbage collected only when it was referanced to null is when it gets collected 
+
+    Weak Referances
+
+    An object with only weak referances it will be garbage collcted

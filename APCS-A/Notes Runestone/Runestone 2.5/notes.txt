@@ -1,0 +1,3 @@
+The turtle library has methods to get many things such as a turtle's position or height
+
+The turtle libarary can also use parenthsis to get distance between 2 turtles or position

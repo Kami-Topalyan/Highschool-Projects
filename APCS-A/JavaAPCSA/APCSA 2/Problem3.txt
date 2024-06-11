@@ -1,0 +1,20 @@
+Objects: sender, receiver, order
+
+
+properties Sender: location, time, name
+
+properties Receiver: location, time, name
+
+properties order: type of snake, snake count, box size
+
+
+Behaviors Sender: Get location, Get time, Get name
+
+Behaviors Receiver: Get location, Get time, Get name
+
+Behaviors order: Get Box size, Get Snake Count, Get Snake type
+
+
+Preconditions: Snake count cannot be more than 8, Snake type cannot be cobra 
+
+Postconditions: Get box with exact size as entered, Get snake type  based on what was entered

@@ -1,0 +1,3 @@
+indentations do not matter in code your fancy brakets are the indentations this should be focus more on using nested statements
+
+dont forget else ifs
